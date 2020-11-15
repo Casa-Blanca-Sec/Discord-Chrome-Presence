@@ -1,0 +1,30 @@
+{
+  "name": "discord-presence-chrome",
+  "version": "2.0.0",
+  "description": "Opa, chegou o Discord Presence para chrome, mostre a todos oque você esta fazendo!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: Nenhum teste especificado\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Kristian Rose",
+  "license": "Unlicense",
+  "dependencies": {
+    "discord-rpc": "^3.0.0",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jczstudios/discord-chrome-presence.git"
+  },
+  "keywords": [
+    "discord",
+    "rich-presence",
+    "brasileiro"
+  ],
+  "bugs": {
+    "url": "https://github.com/jczstudios/discord-chrome-presence/issues"
+  },
+  "homepage": "https://github.com/jczstudios/discord-chrome-presence#readme"
+}
