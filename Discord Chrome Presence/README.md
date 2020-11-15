@@ -11,7 +11,7 @@ Opa, chegou o Discord Presence para chrome, mostre a todos oque você esta fazen
 ## Instalação
 
 ```
-git clone https://github.com/jczstudios/discord-chrome-presence
+git clone https://github.com/kristianrose/Discord-Chrome-Presence
 cd Discord-Chrome-Presence
 npm install
 npm start
